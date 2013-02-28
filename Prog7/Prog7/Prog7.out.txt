@@ -1,0 +1,54 @@
+Program 7 - Maze Output.
+By: Jesse Whitworth
+
+ 0123456789    maze1.txt
+0P---PPP-  0
+1P---P-P-  1   Position: (0, 0))
+2PRR-P-PPPP2
+3P-R-P----P3
+4P-R-P-R-PP4   Success: Found a path.
+5P---P-R-P-5
+6P-PPP-R-P-6
+7P-P---R-PP7
+8PPPRRRR- P8
+9RRRR---- PP
+ 0123456789
+
+
+
+Speed [minimum = 1, default = 6, ctrl-C quits]: 99
+
+
+ 0123456789    maze2.txt
+0PPPPPPPPPP0
+1         P1   Position: (0, 0))
+2         P2
+3         P3
+4         P4   Success: Found a path.
+5         P5
+6         P6
+7         P7
+8         P8
+9         PP
+ 0123456789
+
+
+
+Speed [minimum = 1, default = 6, ctrl-C quits]: 99
+
+ 0123456789    maze3.txt
+0P-PPP-PPPP0
+1P-P-P-P- P1   Position: (0, 0))
+2P-P-P-P- P2
+3P-P-P-P- P3
+4P-P-P-P- P4   Success: Found a path.
+5P-P-P-P- P5
+6P-P-P-P- P6
+7P-P-P-P- P7
+8P-P-P-P- P8
+9PPP-PPP- PP
+ 0123456789
+
+
+
+Speed [minimum = 1, default = 6, ctrl-C quits]: 99

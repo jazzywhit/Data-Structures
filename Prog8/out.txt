@@ -1,0 +1,186 @@
+------------------------------------
+Jesse Whitworth Program 8 - out.txt
+------------------------------------
+
+>owordfile.txt                                                        to=20
+>dis                                                        time=4
+>djumped
+>dmen
+>dfor                                             the=23
+>dall
+>dcome                                                                quick=2
+>ddoggie                                                    party=13
+>dfox                                                                 over=6
+>dgood
+>dbrown
+>dnow                                   now=1
+>dthe
+>dtime
+>dto
+>dparty                                                               to=20
+>dquick                                                     time=4
+>dover
+>owordfile.txt
+>a                                                the=23
+all=6
+brown=3                                                               quick=2
+come=10                                                     party=13
+doggie=9                                                              over=6
+for=5
+fox=4
+good=7                                  now=1
+is=2
+jumped=5
+lazy=8
+men=8                                                       men=8
+now=1                                                                 jumped=5
+over=6
+party=13                                          is=2
+quick=2                                                               to=20
+the=23                                                      time=4
+time=4
+to=20
+>p                                                the=23
+brown=3
+doggie=9                                                              quick=2
+come=10                                                     party=13
+all=6                                                                 over=6
+fox=4
+good=7
+for=5                                   now=1
+lazy=8
+jumped=5
+men=8
+is=2                                                        men=8
+over=6                                                                jumped=5
+quick=2
+party=13                                          is=2
+to=20                                                                 to=20
+time=4                                                                to=20
+the=23                                                      time=4
+now=1
+>l
+now=1                                             the=23
+is=2
+the=23                                                                quick=2
+for=5                                                       party=13
+men=8
+party=13
+time=4
+all=6                                   over=6
+good=7
+jumped=5
+over=6
+quick=2                                                     men=8
+to=20                                                                 jumped=5
+come=10
+fox=4                                                                 to=20
+lazy=8                                                                to=20
+brown=3                                                     time=4
+doggie=9                                                              then=1
+>dnow
+>a                                                the=23
+all=6
+brown=3                                                               quick=2
+come=10                                                     party=13
+doggie=9
+for=5
+fox=4
+good=7                                  over=6
+is=2
+jumped=5
+lazy=8
+men=8                                                       men=8
+over=6                                                                jumped=5
+party=13
+quick=2                                           is=2
+the=23                                                                to=20
+time=4                                                      time=4
+to=20                                                                 then=1
+>ithen
+>a                                                the=23
+all=6
+brown=3                                                               quick=2
+come=10                                                     party=13
+doggie=9
+for=5
+fox=4
+good=7                                  over=6
+is=2
+jumped=5
+lazy=8
+men=8                                                       men=8
+over=6                                                                jumped=5
+party=13
+quick=2                                           is=2
+the=23
+then=1                                                                good=7
+time=4                                                      for=5
+to=20                                                                 all=6
+>
+
+----------------------------------
+Run 2
+----------------------------------
+>owordfile.txt                                                        time=4
+>dis                                                        the=23
+>djumped
+>dmen
+>dfor                                             quick=4
+>dfox
+>dgood
+>dall
+>dcome
+>ddoggie
+>dbrown
+>dnow                                   party=26
+>dthe
+>dtime
+>dto
+>a
+over=6
+party=13
+quick=2                                                               time=4
+>oworfile.txt                                               the=23
+*** ERROR: No such file worfile.txt
+>owordfile.txt
+>a                                                quick=4
+all=6
+brown=3
+come=10
+doggie=9
+for=5
+fox=4
+good=7                                  party=26
+is=2
+jumped=5
+lazy=8
+men=8
+now=1
+over=12
+party=26                                          over=12
+quick=4                                                               time=4
+the=23                                                                time=4
+time=4                                                      the=23
+to=20
+>l
+party=26                                          quick=4
+over=12
+quick=4
+now=1
+the=23
+is=2
+time=4
+for=5                                   party=26
+men=8
+to=20
+all=6
+good=7
+jumped=5
+come=10
+fox=4                                             over=12
+lazy=8
+brown=3
+doggie=9                                                    now=1
+>d                                                                    is=2
+>

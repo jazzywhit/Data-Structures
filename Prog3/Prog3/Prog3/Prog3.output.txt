@@ -1,0 +1,137 @@
+----------------------------------------------------------------
+PROG 3 OUTPUT
+JESSE WHITWORTH
+----------------------------------------------------------------
+
+>x script.txt
+>i 0 0
+>i 4 0
+>i 4 3
+>c
+Circumference = 12
+>a
+Triangle 1 area = 6
+Polygon Area = 6
+>r
+>p
+POLYGON DEFINITION
+(0, 0)
+(4, 0)
+(4, 3)
+>f
+>f
+>f
+The polygon is at the end.
+>r
+>f
+>d
+>p
+POLYGON DEFINITION
+(0, 0)
+(4, 3)
+>e
+>o test.txt
+>p
+POLYGON DEFINITION
+(1, 1)
+(8, 4)
+(14, 2)
+(15, -3)
+(10, -8)
+(2, -5)
+>a
+Triangle 1 area = 16
+Triangle 2 area = 33
+Triangle 3 area = 45
+Triangle 4 area = 22.5
+Polygon Area = 116.5
+>c
+Circumference = 40.7372
+>r
+>f
+>u 9 3
+>p
+POLYGON DEFINITION
+(1, 1)
+(9, 3)
+(14, 2)
+(15, -3)
+(10, -8)
+(2, -5)
+>s new.txt
+>e
+>o new.txt
+>p
+POLYGON DEFINITION
+(1, 1)
+(9, 3)
+(14, 2)
+(15, -3)
+(10, -8)
+(2, -5)
+>q
+CURRENT ITEM
+(1, 1)
+>
+
+----------------------------------------------------------------
+RUN 2
+----------------------------------------------------------------
+>i 7 8
+>i 7 2
+>i 9 9
+>p
+POLYGON DEFINITION
+(7, 8)
+(7, 2)
+(9, 9)
+CURRENT ITEM
+(7, 8)
+>c
+Circumference = 15.5162
+>a
+Triangle 1 area = 6
+Polygon Area = 6
+>f
+CURRENT ITEM
+(7, 2)
+>f
+CURRENT ITEM
+(9, 9)
+>f
+CURRENT ITEM
+(8, 9)
+>p
+POLYGON DEFINITION
+(7, 8)
+(7, 2)
+(9, 9)
+(8, 9)
+CURRENT ITEM
+(7, 8)
+>f
+CURRENT ITEM
+(7, 2)
+>f
+CURRENT ITEM
+(9, 9)
+>f
+CURRENT ITEM
+(8, 9)
+>i 2 3
+CURRENT ITEM
+(8, 9)
+>p
+POLYGON DEFINITION
+(7, 8)
+(7, 2)
+(9, 9)
+(2, 3)
+(8, 9)
+CURRENT ITEM
+(7, 8)
+>a
+Triangle 1 area = 6
+Triangle 2 area = 2.5
+Triangle 3 area = 0
+Polygon Area = 8.5

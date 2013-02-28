@@ -1,0 +1,212 @@
+----------------------------------------------------------------------------
+-------------------------Jesse Whitworth - Prog 9 Test Runs ----------------
+----------------------------------------------------------------------------
+Run 1
+----------------------------------------------------------------------------
+
+>I JIM
+>I NICHOLE
+>I ALAN                                                     dave=1
+>I DAVE
+>I WILL
+>I JIM                                            michael=1
+>I CURTIS
+>I JON
+>I KEN
+>I MICHAEL
+>A
+alan=1                                                                good=7
+curtis=1                                                    party=13
+dave=1                                                                come=10
+jim=2
+jon=1                                             quick=2
+ken=1
+michael=1                                                             fox=4
+nichole=1                                                   over=6
+will=1                                                                now=1
+>N
+1=will
+1=michael                               to=20
+1=nichole
+1=jon
+1=ken                                                                 for=5
+1=dave                                                      men=8
+1=curtis                                                              lazy=8
+1=alan
+2=jim
+>C
+>A                                                                    good=7
+>O WORDFILE.TXT                                             party=13
+>A                                                                    come=10
+all=6
+brown=3                                           quick=2
+come=10
+doggie=9                                                              fox=4
+for=5                                                       over=6
+fox=4                                                                 now=1
+good=7
+is=2
+jumped=5                                to=20
+lazy=8
+men=8
+now=1                                                                 for=5
+over=6                                                      men=8
+party=13                                                              lazy=8
+quick=2
+the=23                                            time=4
+time=4
+to=20
+>I RALPH                                                              good=7
+>A                                                          party=13
+all=6                                                                 come=10
+brown=3
+come=10                                           quick=2
+doggie=9
+for=5                                                                 fox=4
+fox=4                                                       over=6
+good=7                                                                now=1
+is=2
+jumped=5
+lazy=8                                  time=4
+men=8
+now=1
+over=6                                                                for=5
+party=13                                                    men=8
+quick=2                                                               lazy=8
+ralph=1
+the=23
+time=4                                                                good=7
+to=20                                                       party=13
+>D                                                                    come=10
+>A
+all=6                                             quick=2
+brown=3
+come=10                                                               fox=4
+doggie=9                                                    over=6
+for=5                                                                 now=1
+fox=4
+good=7
+is=2                                    time=4
+jumped=5
+lazy=8
+men=8                                                                 for=5
+now=1                                                       men=8
+over=6                                                                lazy=8
+party=13
+quick=2
+ralph=1
+the=23                                                                4=time
+time=4                                                      8=men
+>N                                                                    2=is
+1=now
+1=ralph                                           9=doggie
+2=is
+2=quick                                                               4=fox
+3=brown                                                     8=lazy
+4=fox                                                                 7=good
+4=time
+5=for
+5=jumped                                13=party
+6=over
+6=all
+7=good                                                                6=all
+8=lazy                                                      6=over
+8=men                                                                 3=brown
+9=doggie
+10=come                                                               4=fox
+13=party                                                    8=lazy
+23=the                                                                2=is
+>D
+>N                                                9=doggie
+1=now
+1=ralph                                                               4=time
+2=is                                                        8=men
+2=quick                                                               7=good
+3=brown
+4=time
+4=fox                                   13=party
+5=jumped
+5=for
+6=all                                                                 6=over
+6=over                                                      6=all
+7=good                                                                3=brown
+8=men
+8=lazy                                                                good=7
+9=doggie                                                    party=13
+10=come                                                               come=10
+13=party
+>A                                                quick=2
+all=6
+brown=3                                                               fox=4
+come=10                                                     over=6
+doggie=9                                                              now=1
+for=5
+fox=4
+good=7                                  time=4
+is=2
+jumped=5
+lazy=8                                                                for=5
+men=8                                                       men=8
+now=1                                                                 lazy=8
+over=6
+party=13                                          ralph=1
+quick=2
+ralph=1                                                               all=6
+time=4                                                      jumped=5
+>                                                                     is=2
+
+----------------------------------------------------------------------------
+Run 2
+----------------------------------------------------------------------------
+
+>i jesse
+>i ryan
+>i donna
+>i donna
+>i donna
+>i blitz                                          dubious=1
+>i maroon
+>i dubious
+>a
+blitz=1
+donna=3
+dubious=1
+jesse=1                                                     donna=3
+maroon=1
+ryan=1
+>n                                                maroon=1
+1=ryan
+1=dubious
+1=jesse
+1=maroon
+1=blitz
+3=donna                                                     donna=3
+>i jesse
+>n
+1=blitz                                           maroon=1
+1=dubious
+1=ryan
+1=maroon
+2=jesse
+3=donna                                                     1=dubious
+>i blitzy
+>i blitz
+>i blitz                                          3=donna
+>n
+1=maroon
+1=ryan                                                      1=maroon
+1=dubious
+1=blitzy
+2=jesse
+3=donna                                 4=blitz
+3=blitz
+>i blitz
+>n
+1=maroon                                                    1=ryan
+1=ryan
+1=dubious
+1=blitzy                                          2=jesse
+2=jesse
+3=donna
+4=blitz                                                     1=blitzy
+>

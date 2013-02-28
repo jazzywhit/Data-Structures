@@ -1,0 +1,99 @@
+==========================================
+I.CMD
+==========================================
+>x I.cmd
+>i 4 3
+>r
+>i 0 0
+>i 4 0
+>f
+The polygon is at the end.
+>i 0 3
+>p
+
+POLYGON DEFINITION
+(0, 0)
+(4, 0)
+(4, 3)
+(0, 3)
+
+>c
+Circumference = 14
+>a
+Triangle 1 area = 6
+Triangle 2 area = 6
+Polygon Area = 12
+>s I.txt
+>q
+CURRENT ITEM
+(0, 0)
+
+
+
+
+===========================================
+D.CMD
+===========================================
+>x D.cmd
+>o I.txt
+>r
+>p
+POLYGON DEFINITION
+(0, 0)
+(4, 0)
+(4, 3)
+(0, 3)
+
+>d
+>p
+POLYGON DEFINITION
+(4, 0)
+(4, 3)
+(0, 3)
+
+>f
+>d
+>p
+POLYGON DEFINITION
+(4, 0)
+(0, 3)
+
+>f
+>d
+>p
+POLYGON DEFINITION
+(4, 0)
+
+>r
+>d
+The polygon is empty.
+>p
+The polygon is empty.
+>q
+
+
+==========================================
+E.CMD
+==========================================
+>x E.cmd
+>o I.txt
+>p
+POLYGON DEFINITION
+(0, 0)
+(4, 0)
+(4, 3)
+(0, 3)
+
+>f
+>u 5 1
+>p
+POLYGON DEFINITION
+(0, 0)
+(5, 1)
+(4, 3)
+(0, 3)
+
+>e
+>p
+The polygon is empty.
+>q

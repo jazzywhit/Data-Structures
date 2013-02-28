@@ -1,0 +1,31 @@
+﻿Build started 10/2/2011 9:11:25 PM.
+Project "C:\Documents and Settings\Administrator\My Documents\Dropbox\Lowell\Data Structures\Prog3\Prog3\Prog3\Prog3.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Release\Prog3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt LinkedList.cpp
+  LinkedList.cpp
+c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog3\prog3\prog3\linkedlist.cpp(25): warning C4700: uninitialized local variable 'newNode' used
+c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog3\prog3\prog3\linkedlist.cpp(67): warning C4700: uninitialized local variable 'newNode' used
+ManifestResourceCompile:
+  All outputs are up-to-date.
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Administrator\My Documents\Dropbox\Lowell\Data Structures\Prog3\Prog3\Prog3\Release\Prog3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Prog3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Administrator\My Documents\Dropbox\Lowell\Data Structures\Prog3\Prog3\Prog3\Release\Prog3.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Administrator\My Documents\Dropbox\Lowell\Data Structures\Prog3\Prog3\Prog3\Release\Prog3.lib" /MACHINE:X86 Release\Prog3.exe.embed.manifest.res
+  Release\LinkedList.obj
+  Release\Point.obj
+  Release\Prog3.obj
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Release\Prog3.exe.embed.manifest" /manifest Release\Prog3.exe.intermediate.manifest
+  All outputs are up-to-date.
+LinkEmbedManifest:
+  All outputs are up-to-date.
+  Prog3.vcxproj -> C:\Documents and Settings\Administrator\My Documents\Dropbox\Lowell\Data Structures\Prog3\Prog3\Prog3\Release\Prog3.exe
+FinalizeBuildStatus:
+  Deleting file "Release\Prog3.unsuccessfulbuild".
+  Touching "Release\Prog3.lastbuildstate".
+Done Building Project "C:\Documents and Settings\Administrator\My Documents\Dropbox\Lowell\Data Structures\Prog3\Prog3\Prog3\Prog3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.56

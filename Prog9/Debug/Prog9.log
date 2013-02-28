@@ -1,0 +1,81 @@
+﻿Build started 11/21/2011 11:49:44 AM.
+Project "C:\Documents and Settings\Administrator\My Documents\Dropbox\Lowell\Data Structures\Prog9\Prog9.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\Prog9.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Prog9.cpp Utility.cpp
+  Utility.cpp
+  Prog9.cpp
+c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog9\Heap_T.h(31): error C2143: syntax error : missing ';' before '<'
+c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog9\Heap_T.h(31): error C2182: 'Heap' : illegal use of type 'void'
+c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog9\Heap_T.h(31): error C2988: unrecognizable template declaration/definition
+c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog9\Heap_T.h(31): error C2059: syntax error : '<'
+c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog9\Heap_T.h(31): error C2039: 'RShowTree' : is not a member of '`global namespace''
+c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog9\Heap_T.h(60): error C2039: 'ShowTree' : is not a member of '`global namespace''
+c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog9\Heap_T.h(61): error C2143: syntax error : missing ';' before '{'
+c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog9\Heap_T.h(61): error C2447: '{' : missing function header (old-style formal list?)
+Prog9.cpp(52): error C2061: syntax error : identifier 'Heap'
+Prog9.cpp(53): error C2061: syntax error : identifier 'Heap'
+Prog9.cpp(56): error C2061: syntax error : identifier 'Heap'
+Prog9.cpp(57): error C2061: syntax error : identifier 'Heap'
+Prog9.cpp(58): error C2275: 'WordCount' : illegal use of this type as an expression
+          c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog9\WordCount.h(29) : see declaration of 'WordCount'
+Prog9.cpp(58): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(58): error C2182: 'Delete' : illegal use of type 'void'
+Prog9.cpp(59): error C2061: syntax error : identifier 'Heap'
+Prog9.cpp(60): error C2061: syntax error : identifier 'Heap'
+Prog9.cpp(92): error C2061: syntax error : identifier 'Heap'
+Prog9.cpp(98): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(109): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(110): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(112): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(113): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(117): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(118): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(131): error C2061: syntax error : identifier 'Heap'
+Prog9.cpp(144): error C2065: 'word' : undeclared identifier
+Prog9.cpp(146): error C2065: 'word' : undeclared identifier
+Prog9.cpp(146): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(158): error C2275: 'WordCount' : illegal use of this type as an expression
+          c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog9\WordCount.h(29) : see declaration of 'WordCount'
+Prog9.cpp(158): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(159): error C2448: 'Delete' : function-style initializer appears to be a function definition
+Prog9.cpp(178): error C2061: syntax error : identifier 'Heap'
+Prog9.cpp(182): error C2065: 'wordStream' : undeclared identifier
+Prog9.cpp(182): error C3861: 'OpenFile': identifier not found
+Prog9.cpp(191): error C2065: 'wordStream' : undeclared identifier
+Prog9.cpp(191): error C2065: 'word' : undeclared identifier
+Prog9.cpp(193): error C2065: 'wordStream' : undeclared identifier
+Prog9.cpp(196): error C2065: 'word' : undeclared identifier
+Prog9.cpp(196): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(199): error C2065: 'wordStream' : undeclared identifier
+Prog9.cpp(213): error C2275: 'WordCount' : illegal use of this type as an expression
+          c:\documents and settings\administrator\my documents\dropbox\lowell\data structures\prog9\WordCount.h(29) : see declaration of 'WordCount'
+Prog9.cpp(213): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(216): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(216): error C3861: 'Execute': identifier not found
+Prog9.cpp(231): error C2061: syntax error : identifier 'Heap'
+Prog9.cpp(240): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(242): error C2065: 'cmdLine' : undeclared identifier
+Prog9.cpp(242): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(242): error C3861: 'GetCmd': identifier not found
+Prog9.cpp(244): error C2065: 'cmdLine' : undeclared identifier
+Prog9.cpp(247): error C2065: 'cmdLine' : undeclared identifier
+Prog9.cpp(249): error C2051: case expression not constant
+Prog9.cpp(250): error C2065: 'cmdLine' : undeclared identifier
+Prog9.cpp(250): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(250): error C3861: 'DoExecute': identifier not found
+Prog9.cpp(252): error C2051: case expression not constant
+Prog9.cpp(253): error C2065: 'cmdLine' : undeclared identifier
+Prog9.cpp(253): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(255): error C2051: case expression not constant
+Prog9.cpp(256): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(258): error C2051: case expression not constant
+Prog9.cpp(259): error C2065: 'wordHeap' : undeclared identifier
+Prog9.cpp(259): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  Generating Code...
+Done Building Project "C:\Documents and Settings\Administrator\My Documents\Dropbox\Lowell\Data Structures\Prog9\Prog9.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:18.20

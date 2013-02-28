@@ -1,0 +1,51 @@
+
+ 0123456789    maze1.txt
+0P---PPP-  0
+1P---P-P-  1   Position: (9, 9)
+2PRR-P-PPPP2
+3P-R-P----P3
+4P-R-P-R-PP4   Success: Found a path.
+5P---P-R-P-5
+6P-PPP-R-P-6
+7P-P---R-PP7
+8PPPPRRR- P8
+9RRRR---- P9
+ 0123456789
+
+
+
+Speed [minimum = 1, default = 6, ctrl-C quits]: 6
+
+ 0123456789    maze.txt
+0PRRRRRRRRR0
+1P--R-----R1   Position: (9, 9)
+2P-RRRRRRRR2
+3P-R-R-----3
+4P-RRPRRRRR4   Success: Found a path.
+5P-----R--R5
+6P-RRRRPRRR6
+7P-R-------7
+8P--PPP-PPP8
+9PPPP-PPP-P9
+ 0123456789
+
+
+
+Speed [minimum = 1, default = 6, ctrl-C quits]: 6
+
+ 0123456789    maze4.txt
+0PPPPPPPPPP0
+1 --------P1   Position: (9, 9)
+2 -PPPPPPPP2
+3 -P-------3
+4 -PPPPPPPP4   Success: Found a path.
+5 --------P5
+6 -PPPPPPPP6
+7 -P-------7
+8 -PPPPPPPP8
+9         P9
+ 0123456789
+
+
+
+Speed [minimum = 1, default = 6, ctrl-C quits]: 6

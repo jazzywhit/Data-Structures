@@ -1,0 +1,28 @@
+i 0 0
+i 4 0
+i 4 3
+c
+a
+r
+p
+f
+f
+f
+r
+f
+d
+p
+e
+o test.txt
+p
+a
+c
+r
+f
+u 9 3
+p
+s new.txt
+e
+o new.txt
+p
+q

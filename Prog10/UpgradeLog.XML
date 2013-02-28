@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Prog10">
+</Property><Property Name="Solution File" Value="D:\My Dropbox\Lowell\Data Structures\Prog10\Prog10.sln">
+</Property><Property Name="Date" Value="Wednesday, December 07, 2011">
+</Property><Property Name="Time" Value="16:02 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Prog10" Source="Prog10.vcproj" Description="Converting project file 'D:\My Dropbox\Lowell\Data Structures\Prog10\Prog10.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Prog10" Source="Prog10.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Prog10" Source="Prog10.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Prog10" Source="Prog10.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="Prog10" Source="Prog10.vcproj" Description="Done converting to new project file 'D:\My Dropbox\Lowell\Data Structures\Prog10\Prog10.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Prog10" Source="Prog10.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Prog10.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Prog10.sln" Description="Converted">
+</Event></UpgradeLog>
