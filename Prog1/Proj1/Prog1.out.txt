@@ -1,0 +1,81 @@
+========================================================================
+
+Enter the polygon definition:
+
+Enter the first point: 1 1 
+Enter next point: 8 4
+Enter next point: 14 2
+Enter next point: 15 -3
+Enter next point: 10 -8
+Enter next point: 2 -5
+Enter next point: 
+
+Here is the polygon definition:
+(1, 1)
+(8, 4)
+(14, 2)
+(15, -3)
+(10, -8)
+(2, -5)
+
+Circumference = 40.7372
+
+Polygon Area = 116.5
+
+Triangle 1: Area = 16
+Triangle 2: Area = 33
+Triangle 3: Area = 45
+Triangle 4: Area = 22.5
+Program ended with exit code: 0
+
+
+========================================================================
+
+Enter the polygon definition:
+
+Enter the first point: 2 4
+Enter next point: 
+A polygon could not be created from your input. Exiting
+Program ended with exit code: 0
+
+========================================================================
+
+Enter the polygon definition:
+
+Enter the first point: 0 0
+Enter next point: 0 3
+Enter next point: 0 4
+Enter next point: 
+
+Here is the polygon definition:
+(0, 0)
+(0, 3)
+(0, 4)
+
+Circumference = 8
+
+Polygon Area = 0
+
+Triangle 1: Area = 0
+
+========================================================================
+
+Enter the polygon definition:
+
+Enter the first point: 0 0
+Enter next point: 3 0
+Enter next point: 0 4
+Enter next point: 
+
+Here is the polygon definition:
+(0, 0)
+(3, 0)
+(0, 4)
+
+Circumference = 12
+
+Polygon Area = 6
+
+Triangle 1: Area = 6
+
+========================================================================
